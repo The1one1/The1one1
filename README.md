@@ -1,12 +1,13 @@
+![MasterHead](https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/yRF5c-O/videoblocks-door-opens-in-a-dark-room-and-bright-light-fills-the-room-slowly-opening-door-fills-the-dark-room-with-divine-light-orange-golden-2_rbh6gwwkz_thumbnail-1080_05.png)
+
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the1one1&label=Profile%20views&color=0e75b6&style=flat" alt="the1one1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the1one1&theme=monokai&column=-1" alt="the1one1" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
 - 📫 How to reach me **lci2020029@iiitl.ac.in**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

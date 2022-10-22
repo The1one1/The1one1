@@ -1,4 +1,4 @@
-![MasterHead](https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/yRF5c-O/videoblocks-door-opens-in-a-dark-room-and-bright-light-fills-the-room-slowly-opening-door-fills-the-dark-room-with-divine-light-orange-golden-2_rbh6gwwkz_thumbnail-1080_05.png)
+
 
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 

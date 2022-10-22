@@ -1,13 +1,7 @@
-<!---
-The1one1/The1one1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the1one1&label=Profile%20views&color=0e75b6&style=flat" alt="the1one1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the1one1" alt="the1one1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the1one1&column=-1" alt="the1one1" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
@@ -16,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/the1one1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="the1one1" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/rahul-sharma-2bba60203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-sharma-2bba60203" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/lci2020029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lci2020029" height="30" width="40" /></a>
 </p>
 

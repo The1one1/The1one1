@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @The1one1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 📫 How to reach me LCI2020029@iiitl.ac.in
 
 <!---

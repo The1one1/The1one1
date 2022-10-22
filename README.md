@@ -13,10 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **lci2020029@iiitl.ac.in**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/the1one1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="the1one1" height="30" width="40" /></a>
@@ -32,4 +28,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the1one1&show_icons=true&locale=en" alt="the1one1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the1one1&" alt="the1one1" /></p>
-

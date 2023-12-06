@@ -61,7 +61,7 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
   </a>
-</p>
+
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
@@ -86,7 +86,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
 </a>
-
+</p>
 <!--
 <h3 align="left">My GitHub Stats:</h3
 <p align="center">

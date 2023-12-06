@@ -87,18 +87,22 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
 </a>
 
-<h3 align="left">My GitHub Stats:</h3>
+<!--
+<h3 align="left">My GitHub Stats:</h3
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the1one1&show_icons=true&theme=onedark" alt="the1one1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=the1one1&theme=onedark" alt="the1one1" />
 </p>
+-->
 
 <h3 align="left">Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the1one1&show_icons=true&locale=en&layout=compact&theme=onedark" alt="the1one1" />
 </p>
 
+<!--
 <h3 align="left">Recent Activity:</h3>
+-->
 <!--START_SECTION:activity-->
 <!-- Your GitHub Activity -->
 <!--END_SECTION:activity-->

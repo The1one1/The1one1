@@ -12,10 +12,8 @@
 - 🔭 I’m currently working on **Machine Learning and Deep Learning projects**
 - 🌱 I’m currently learning **Advanced AI Techniques**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m open for **Internship opportunities in Data Science**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis**
 - 📫 How to reach me: **lci2020029@iiitl.ac.in**
-- ⚡ Fun fact: **I love to play chess and solve puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,6 +82,14 @@
   
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  </a>
+
+  <a href=“https://flask.palletsprojects.com/” target=“_blank” rel=“noreferrer”> 
+    <img src=“https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white” alt=“Flask” /> 
+  </a>
+
+  <a href=“https://firebase.google.com/” target=“_blank” rel=“noreferrer”> 
+    <img src=“https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black” alt=“Firebase” /> 
   </a>
 </p>
 

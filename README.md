@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   </a>
 
-  <a href=“https://flask.palletsprojects.com/” target=“_blank” rel=“noreferrer”> 
+  <a href=“https://flask.palletsprojects.com/en/3.0.x/” target=“_blank” rel=“noreferrer”> 
     <img src=“https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white” alt=“Flask” /> 
   </a>
 
